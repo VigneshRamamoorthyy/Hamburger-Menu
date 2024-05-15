@@ -1,0 +1,10 @@
+.about-container {
+  min-height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.about-img-lg {
+  width: 800px;
+}
